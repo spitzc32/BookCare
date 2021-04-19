@@ -1,0 +1,1 @@
+This is the base document(Release 1) for BookCare eCommerce. 
